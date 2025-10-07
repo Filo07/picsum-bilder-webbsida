@@ -19,6 +19,7 @@ header{
     padding:5px 0 5px 0;
     height:6rem;
     background: radial-gradient(circle, #fcff9e 0%, #c67700 100%);
+    
 }
 section{
     display: grid;
@@ -39,8 +40,9 @@ section img{
     
 }
 footer{
-    height:6rem;
+    height:7rem;
     display: flex;
     justify-content: center;
     background: radial-gradient(circle, #fcff9e 0%, #c67700 100%);
+    
 }
